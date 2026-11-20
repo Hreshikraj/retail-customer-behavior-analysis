@@ -46,5 +46,3 @@ The analysis explored:
   ## Tableau Dashboard
 
 [View Interactive Dashboard](https://public.tableau.com/views/RetailCustomerBehaviorShoppingAnalysis/RetailCustomerAnalysis)
-
-![Retail Customer Analysis Dashboard](dashboard.png)
