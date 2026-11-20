@@ -1,3 +1,4 @@
+<img width="1384" height="687" alt="Dashboard" src="https://github.com/user-attachments/assets/ccff3eea-b2b6-4059-a589-f471c00c5261" />
 # Retail Customer Behavior & Shopping Analysis
 
 ## Project Overview
