@@ -42,3 +42,9 @@ The analysis explored:
 - **Gender distribution:** Male records represented approximately 67.7% of the dataset.
 - **Leading category:** Clothing recorded the highest purchase amount at $102,968.
 - **Seasonal comparison:** Fall had the highest recorded purchase amount
+-  Seasonal comparison: Fall had the highest recorded purchase amount at $59,620.
+  ## Tableau Dashboard
+
+[View Interactive Dashboard](https://public.tableau.com/views/RetailCustomerBehaviorShoppingAnalysis/RetailCustomerAnalysis)
+
+![Retail Customer Analysis Dashboard](dashboard.png)
